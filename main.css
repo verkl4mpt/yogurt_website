@@ -1,0 +1,33 @@
+h1 {
+    color:#93c5c1;
+    text-align:center;
+    font-family:sans-serif;
+}
+
+p {
+    text-align:center;
+}
+
+form {
+    text-align:center;
+}
+
+a {
+    text-align:center;
+}
+
+#description {
+    color:#a3b690;
+}
+
+.emphasize {
+    background-color:#ffffcc;
+    text-align:center;
+}
+
+#info {
+    border:2px solid #8f9ca7;
+    padding:15px 15px 15px 15px;
+
+}
+
